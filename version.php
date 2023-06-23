@@ -30,4 +30,4 @@ $plugin->release   = '3.208.1'; // This should be in lock step with sdk/CHANGELO
 $plugin->requires  = 2023042401;
 $plugin->component = 'local_aws';
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->supported = [402]; // A range of branch numbers of supported moodle versions.
+$plugin->supported = 402; // A range of branch numbers of supported moodle versions.
